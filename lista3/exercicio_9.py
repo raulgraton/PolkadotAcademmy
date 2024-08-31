@@ -20,5 +20,4 @@ def main():
     # Exibe o resultado
     print(f"O número {numero} é {paridade}.")
 
-if _name_ == "_main_":
-    main()
+main()

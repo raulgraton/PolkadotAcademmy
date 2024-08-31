@@ -33,4 +33,4 @@ def main():
     # Exibe a sequência de Fibonacci
     print(f"A sequência de Fibonacci com {n} termos é: {fibonacci}")
 
-    main()
+main()
